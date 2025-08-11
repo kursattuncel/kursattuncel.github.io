@@ -7,13 +7,13 @@
 
 # Site settings
 title: Dr. Yusuf Kursat Tuncel Personal Homepage
-email: my middlename dot mysurname at google\'s mail
+email: my middlename dot mysurname at google mail
 description: > # this means to ignore newlines until "baseurl:"
 This is my personal homepage.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kursatttuncel.github.io" # the base hostname & protocol for your site
-github_username:  kursattuncel
+github_username: kursattuncel
 
 # Build settings
 markdown: kramdown
